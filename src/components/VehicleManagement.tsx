@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Car, Wrench, Clock, MapPin } from "lucide-react";
+import { Car, Wrench, Clock, MapPin, Calendar } from "lucide-react";
 import { Progress } from "@/components/ui/progress";
 
 interface VehicleManagementProps {
